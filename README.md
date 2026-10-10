@@ -15,4 +15,4 @@ This repository contains my personal portfolio website developed for SITE 1101: 
 Hosted using GitHub Pages and publicly accessible.
 
 🤖 AI Assistance
-The development process included responsible use of AI tools. The full AI chat history used during development is provided as a Markdown file, as required.
+The development process included responsible use of AI tools. The full AI chat history used during development is provided as a Markdown file, as required. 
